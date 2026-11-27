@@ -1,0 +1,4 @@
+# Assignment test repo: automatic CodeRabbit review disabled here (config-only file, no code change).
+reviews:
+  auto_review:
+    enabled: false
